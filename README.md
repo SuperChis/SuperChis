@@ -28,7 +28,7 @@
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://icons8.com/icon/90519/spring-boot"/>
+  <img src="https://icons8.com/icon/A3Ulk2RcONKs/spring-boot"/>
 
   
 </p>
