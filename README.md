@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm Chí</h1>
-<!-- <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p> -->
-<h3 align="center">A passionate coder from Vietnam </h3>
+<h1 align="center">Hi, I'm Chí</h1>
 
-- ✍ I'm a student of: PTIT.
-
-- 🌱 I’m currently learning **JAVA**
-
+- I'm a student of: PTIT.
 
 ## 📫 Contact me:
 
@@ -33,7 +28,7 @@
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+  <img src="https://icons8.com/icon/90519/spring-boot"/>
 
   
 </p>
